@@ -1,3 +1,4 @@
 .vs/
-bin/
-obj/
+Base64Utility.Forms/Temp/
+P1S.PdfUtilities/obj/
+packages/
